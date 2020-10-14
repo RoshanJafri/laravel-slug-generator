@@ -5,7 +5,7 @@ Simple single file laravel unique slug generator.
 copy file Sluggify.php to App\CustomClasses\
 
 ## USAGE 
-in Controller or Model add the following at the top
+to access from any Controller or Model, add the following at the top
 
 ```use App\CustomClasses\Sluggify.php```
 
